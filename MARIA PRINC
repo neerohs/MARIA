@@ -1,4 +1,48 @@
 #EXTM3U
+
+------------------GLOBO
+
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV BLUMENAU HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV BLUMENAU HD
+http://dns.fastuhd.online:80/55560028/74291704/173191
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV CHAPECO HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CHAPECO HD
+http://dns.fastuhd.online:80/55560028/74291704/173192
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV CRICIUMA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CRICIUMA HD
+http://dns.fastuhd.online:80/55560028/74291704/173193
+#EXTINF:-1 tvg-id="Globo Nsc Tv JoinVille" tvg-name="NSC TV JOINVILLE HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV JOINVILLE HD
+http://dns.fastuhd.online:80/55560028/74291704/173194
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV Santa Catarina HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV Santa Catarina HD
+http://dns.fastuhd.online:80/55560028/74291704/173195
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Globo RJ FHD
+http://dns.fastuhd.online:80/55560028/74291704/173171
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
+http://dns.fastuhd.online:80/55560028/74291704/173172
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD¹" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RJ HD¹
+http://dns.fastuhd.online:80/55560028/74291704/173173
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
+http://dns.fastuhd.online:80/55560028/74291704/173174
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SP HD
+http://dns.fastuhd.online:80/55560028/74291704/173175
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD¹" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SP HD¹
+http://dns.fastuhd.online:80/55560028/74291704/173176
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SP SD
+http://dns.fastuhd.online:80/55560028/74291704/173177
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA  FHD (SALVADOR)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA  FHD (SALVADOR)
+http://dns.fastuhd.online:80/55560028/74291704/173164
+#EXTINF:-1 tvg-id="Globo Bahia" tvg-name="GLOBO BAHIA HD (SALVADOR)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD (SALVADOR)
+http://dns.fastuhd.online:80/55560028/74291704/173165
+#EXTINF:-1 tvg-id="Globo TV Sergipe" tvg-name="GLOGO SERGIPE" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOGO SERGIPE
+http://dns.fastuhd.online:80/55560028/74291704/173181
+#EXTINF:-1 tvg-id="Globo TV Sergipe HD" tvg-name="TV SERGIPE HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV SERGIPE HD
+http://dns.fastuhd.online:80/55560028/74291704/173232
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA
+http://dns.fastuhd.online:80/55560028/74291704/173166
+#EXTINF:-1 tvg-id="" tvg-name="Globo BRASILIA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Globo BRASILIA HD
+http://dns.fastuhd.online:80/55560028/74291704/173167
+
+
+------------------------
+
+
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://dns.jserverstv.ml:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS | FILMES E SÉRIES",A&E
 http://dns.fastuhd.online:80/55560028/74291704/173108
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://dns.jserverstv.ml:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD
@@ -95,188 +139,6 @@ http://dns.fastuhd.online:80/55560028/74291704/173153
 http://dns.fastuhd.online:80/55560028/74291704/173154
 #EXTINF:-1 tvg-id="" tvg-name="BAND PRH D" tvg-logo="http://dns.jslinkdns.xyz:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",BAND PRH D
 http://dns.fastuhd.online:80/55560028/74291704/173155
-#EXTINF:-1 tvg-id="Globo Eptv Campinas" tvg-name="EPTV CAMPINAS" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV CAMPINAS
-http://dns.fastuhd.online:80/55560028/74291704/173156
-#EXTINF:-1 tvg-id="Globo Eptv Campinas HD" tvg-name="EPTV CAMPINAS FHD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV CAMPINAS FHD
-http://dns.fastuhd.online:80/55560028/74291704/173157
-#EXTINF:-1 tvg-id="Globo Eptv Campinas HD" tvg-name="EPTV CAMPINAS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV CAMPINAS HD
-http://dns.fastuhd.online:80/55560028/74291704/173158
-#EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV RIBEIRAO PRETO
-http://dns.fastuhd.online:80/55560028/74291704/173159
-#EXTINF:-1 tvg-id="Globo Eptv Ribeirão Preto HD" tvg-name="EPTV RIBEIRAO PRETO FHD H265" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV RIBEIRAO PRETO FHD H265
-http://dns.fastuhd.online:80/55560028/74291704/173160
-#EXTINF:-1 tvg-id="Globo EPTV São Carlos" tvg-name="EPTV SAO CARLOS" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV SAO CARLOS
-http://dns.fastuhd.online:80/55560028/74291704/173161
-#EXTINF:-1 tvg-id="" tvg-name="EPTV SUL DE MINAS FHD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV SUL DE MINAS FHD
-http://dns.fastuhd.online:80/55560028/74291704/173162
-#EXTINF:-1 tvg-id="" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",EPTV SUL DE MINAS HD
-http://dns.fastuhd.online:80/55560028/74291704/173163
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA  FHD (SALVADOR)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA  FHD (SALVADOR)
-http://dns.fastuhd.online:80/55560028/74291704/173164
-#EXTINF:-1 tvg-id="Globo Bahia" tvg-name="GLOBO BAHIA HD (SALVADOR)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD (SALVADOR)
-http://dns.fastuhd.online:80/55560028/74291704/173165
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA
-http://dns.fastuhd.online:80/55560028/74291704/173166
-#EXTINF:-1 tvg-id="" tvg-name="Globo BRASILIA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Globo BRASILIA HD
-http://dns.fastuhd.online:80/55560028/74291704/173167
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTERNACIONAL HD
-http://dns.fastuhd.online:80/55560028/74291704/173168
-#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO MINAS
-http://dns.fastuhd.online:80/55560028/74291704/173169
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE
-http://dns.fastuhd.online:80/55560028/74291704/173170
-#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Globo RJ FHD
-http://dns.fastuhd.online:80/55560028/74291704/173171
-#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
-http://dns.fastuhd.online:80/55560028/74291704/173172
-#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD¹" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RJ HD¹
-http://dns.fastuhd.online:80/55560028/74291704/173173
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
-http://dns.fastuhd.online:80/55560028/74291704/173174
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SP HD
-http://dns.fastuhd.online:80/55560028/74291704/173175
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD¹" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SP HD¹
-http://dns.fastuhd.online:80/55560028/74291704/173176
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SP SD
-http://dns.fastuhd.online:80/55560028/74291704/173177
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO VITORIA ES
-http://dns.fastuhd.online:80/55560028/74291704/173178
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES. FHD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO VITORIA ES. FHD
-http://dns.fastuhd.online:80/55560028/74291704/173179
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA HD ES" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO VITORIA HD ES
-http://dns.fastuhd.online:80/55560028/74291704/173180
-#EXTINF:-1 tvg-id="Globo TV Sergipe" tvg-name="GLOGO SERGIPE" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOGO SERGIPE
-http://dns.fastuhd.online:80/55560028/74291704/173181
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | INFANTIL",GLOOB HD
-http://dns.fastuhd.online:80/55560028/74291704/173182
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV ALTO LITORAL HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",INTER TV ALTO LITORAL HD
-http://dns.fastuhd.online:80/55560028/74291704/173183
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV CABO FRIO HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",INTER TV CABO FRIO HD
-http://dns.fastuhd.online:80/55560028/74291704/173184
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV CABUGI" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",INTER TV CABUGI
-http://dns.fastuhd.online:80/55560028/74291704/173185
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV CABUGI HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",INTER TV CABUGI HD
-http://dns.fastuhd.online:80/55560028/74291704/173186
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV DOS VALES HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",INTER TV DOS VALES HD
-http://dns.fastuhd.online:80/55560028/74291704/173187
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",INTER TV GRANDE MINAS HD
-http://dns.fastuhd.online:80/55560028/74291704/173188
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV SERRA MAR HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",INTER TV SERRA MAR HD
-http://dns.fastuhd.online:80/55560028/74291704/173189
-#EXTINF:-1 tvg-id="" tvg-name="LOANDING HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",LOANDING HD
-http://dns.fastuhd.online:80/55560028/74291704/173190
-#EXTINF:-1 tvg-id="" tvg-name="NSC TV BLUMENAU HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV BLUMENAU HD
-http://dns.fastuhd.online:80/55560028/74291704/173191
-#EXTINF:-1 tvg-id="" tvg-name="NSC TV CHAPECO HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CHAPECO HD
-http://dns.fastuhd.online:80/55560028/74291704/173192
-#EXTINF:-1 tvg-id="" tvg-name="NSC TV CRICIUMA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV CRICIUMA HD
-http://dns.fastuhd.online:80/55560028/74291704/173193
-#EXTINF:-1 tvg-id="Globo Nsc Tv JoinVille" tvg-name="NSC TV JOINVILLE HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV JOINVILLE HD
-http://dns.fastuhd.online:80/55560028/74291704/173194
-#EXTINF:-1 tvg-id="" tvg-name="NSC TV Santa Catarina HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",NSC TV Santa Catarina HD
-http://dns.fastuhd.online:80/55560028/74291704/173195
-#EXTINF:-1 tvg-id="" tvg-name="RBS CAXIAS FHD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS CAXIAS FHD
-http://dns.fastuhd.online:80/55560028/74291704/173196
-#EXTINF:-1 tvg-id="" tvg-name="RBS CAXIAS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS CAXIAS HD
-http://dns.fastuhd.online:80/55560028/74291704/173197
-#EXTINF:-1 tvg-id="" tvg-name="RBS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS HD
-http://dns.fastuhd.online:80/55560028/74291704/173198
-#EXTINF:-1 tvg-id="" tvg-name="RBS PELOTAS FHD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS PELOTAS FHD
-http://dns.fastuhd.online:80/55560028/74291704/173199
-#EXTINF:-1 tvg-id="" tvg-name="RBS PELOTAS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS PELOTAS HD
-http://dns.fastuhd.online:80/55560028/74291704/173200
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV CAXIAS DO SUL HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS TV CAXIAS DO SUL HD
-http://dns.fastuhd.online:80/55560028/74291704/173201
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV PELOTAS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS TV PELOTAS HD
-http://dns.fastuhd.online:80/55560028/74291704/173202
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS TV PORTO ALEGRE
-http://dns.fastuhd.online:80/55560028/74291704/173203
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="RBS TV PORTO ALEGRE HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS TV PORTO ALEGRE HD
-http://dns.fastuhd.online:80/55560028/74291704/173204
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV SANTA MARIA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RBS TV SANTA MARIA HD
-http://dns.fastuhd.online:80/55560028/74291704/173205
-#EXTINF:-1 tvg-id="Rede Amazonica" tvg-name="Rede Amazonica Manaus" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Rede Amazonica Manaus
-http://dns.fastuhd.online:80/55560028/74291704/173206
-#EXTINF:-1 tvg-id="Globo Minas" tvg-name="REDE MINAS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",REDE MINAS HD
-http://dns.fastuhd.online:80/55560028/74291704/173207
-#EXTINF:-1 tvg-id="" tvg-name="RPC FOZ DO IGUACU HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC FOZ DO IGUACU HD
-http://dns.fastuhd.online:80/55560028/74291704/173208
-#EXTINF:-1 tvg-id="" tvg-name="RPC FOZ DO IGUAÇU FHD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC FOZ DO IGUAÇU FHD
-http://dns.fastuhd.online:80/55560028/74291704/173209
-#EXTINF:-1 tvg-id="" tvg-name="RPC PARANA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC PARANA HD
-http://dns.fastuhd.online:80/55560028/74291704/173210
-#EXTINF:-1 tvg-id="" tvg-name="RPC PARANAVAI HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC PARANAVAI HD
-http://dns.fastuhd.online:80/55560028/74291704/173211
-#EXTINF:-1 tvg-id="" tvg-name="RPC PONTA GROSSA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC PONTA GROSSA HD
-http://dns.fastuhd.online:80/55560028/74291704/173212
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba" tvg-name="RPC TV CURITIBA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",RPC TV CURITIBA
-http://dns.fastuhd.online:80/55560028/74291704/173213
-#EXTINF:-1 tvg-id="Tv Anhanguera" tvg-name="Tv ANHAGUERA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",Tv ANHAGUERA HD
-http://dns.fastuhd.online:80/55560028/74291704/173214
-#EXTINF:-1 tvg-id="Tv Anhanguera" tvg-name="TV ANHANGUERA GOIANIA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV ANHANGUERA GOIANIA
-http://dns.fastuhd.online:80/55560028/74291704/173215
-#EXTINF:-1 tvg-id="Globo Bahia" tvg-name="TV BAHIA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV BAHIA
-http://dns.fastuhd.online:80/55560028/74291704/173216
-#EXTINF:-1 tvg-id="" tvg-name="TV BH HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV BH HD
-http://dns.fastuhd.online:80/55560028/74291704/173217
-#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV CABO BRANCO HD
-http://dns.fastuhd.online:80/55560028/74291704/173218
-#EXTINF:-1 tvg-id="" tvg-name="TV CAPIXABA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV CAPIXABA HD
-http://dns.fastuhd.online:80/55560028/74291704/173219
-#EXTINF:-1 tvg-id="" tvg-name="TV CENTRO AMERICA CUIABA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV CENTRO AMERICA CUIABA
-http://dns.fastuhd.online:80/55560028/74291704/173220
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA DE ALAGOAS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV GAZETA DE ALAGOAS HD
-http://dns.fastuhd.online:80/55560028/74291704/173221
-#EXTINF:-1 tvg-id="Tv Gazeta SP HD" tvg-name="TV GAZETA SUL HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV GAZETA SUL HD
-http://dns.fastuhd.online:80/55560028/74291704/173222
-#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO RJ INTERIOR HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV GLOBO RJ INTERIOR HD
-http://dns.fastuhd.online:80/55560028/74291704/173223
-#EXTINF:-1 tvg-id="" tvg-name="TV INTEGRACAO ARAXA HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV INTEGRACAO ARAXA HD
-http://dns.fastuhd.online:80/55560028/74291704/173224
-#EXTINF:-1 tvg-id="TV Liberal Belem" tvg-name="TV LIBERAL BELEM" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV LIBERAL BELEM
-http://dns.fastuhd.online:80/55560028/74291704/173225
-#EXTINF:-1 tvg-id="TV Liberal Belem" tvg-name="TV Liberal HD (BELEM)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Liberal HD (BELEM)
-http://dns.fastuhd.online:80/55560028/74291704/173226
-#EXTINF:-1 tvg-id="" tvg-name="TV Morena Ponta Pora HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Morena Ponta Pora HD
-http://dns.fastuhd.online:80/55560028/74291704/173227
-#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA RS HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV PAMPA RS HD
-http://dns.fastuhd.online:80/55560028/74291704/173228
-#EXTINF:-1 tvg-id="Globo Tv Rio Sul" tvg-name="TV RIO SUL HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV RIO SUL HD
-http://dns.fastuhd.online:80/55560028/74291704/173229
-#EXTINF:-1 tvg-id="Globo Tv Santa Cruz" tvg-name="TV SANTA CRUZ HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV SANTA CRUZ HD
-http://dns.fastuhd.online:80/55560028/74291704/173230
-#EXTINF:-1 tvg-id="Globo Tv Santa Cruz" tvg-name="TV Santa Cruz TV Bahia HD -GLOBO-" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV Santa Cruz TV Bahia HD -GLOBO-
-http://dns.fastuhd.online:80/55560028/74291704/173231
-#EXTINF:-1 tvg-id="Globo TV Sergipe HD" tvg-name="TV SERGIPE HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV SERGIPE HD
-http://dns.fastuhd.online:80/55560028/74291704/173232
-#EXTINF:-1 tvg-id="" tvg-name="TV SUBAE (GLOBO BAHIA HD)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV SUBAE (GLOBO BAHIA HD)
-http://dns.fastuhd.online:80/55560028/74291704/173233
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM BAURU
-http://dns.fastuhd.online:80/55560028/74291704/173234
-#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM SAO JOSE DO RIO PRETO
-http://dns.fastuhd.online:80/55560028/74291704/173235
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TEM SOROCABA
-http://dns.fastuhd.online:80/55560028/74291704/173236
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA FHD (GLOBO SANTOS)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TRIBUNA FHD (GLOBO SANTOS)
-http://dns.fastuhd.online:80/55560028/74291704/173237
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA HD (GLOBO SANTOS)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV TRIBUNA HD (GLOBO SANTOS)
-http://dns.fastuhd.online:80/55560028/74291704/173238
-#EXTINF:-1 tvg-id="Globo TV Vanguarda" tvg-name="TV VANGUARDA DOS CAMPOS" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV VANGUARDA DOS CAMPOS
-http://dns.fastuhd.online:80/55560028/74291704/173239
-#EXTINF:-1 tvg-id="Globo TV Vanguarda" tvg-name="TV VANGUARDA FHD (SAO JOSE DOS CAMPOS )" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV VANGUARDA FHD (SAO JOSE DOS CAMPOS )
-http://dns.fastuhd.online:80/55560028/74291704/173240
-#EXTINF:-1 tvg-id="Globo TV Vanguarda" tvg-name="TV VANGUARDA HD (SAO JOSE DOS CAMPOS)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV VANGUARDA HD (SAO JOSE DOS CAMPOS)
-http://dns.fastuhd.online:80/55560028/74291704/173241
-#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-name="TV VERDES MARES FORTALEZA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV VERDES MARES FORTALEZA
-http://dns.fastuhd.online:80/55560028/74291704/173242
-#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-name="TV VERDES MARES HD CE" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV VERDES MARES HD CE
-http://dns.fastuhd.online:80/55560028/74291704/173243
-#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV VITORIA ES
-http://dns.fastuhd.online:80/55560028/74291704/173244
-#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES FHD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV VITORIA ES FHD
-http://dns.fastuhd.online:80/55560028/74291704/173245
-#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV VITORIA ES HD
-http://dns.fastuhd.online:80/55560028/74291704/173246
 #EXTINF:-1 tvg-id="" tvg-name="BAND Bahia" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | BAND",BAND Bahia
 http://dns.fastuhd.online:80/55560028/74291704/173247
 #EXTINF:-1 tvg-id="" tvg-name="Band BSB HD" tvg-logo="http://dns.jserverstv.ml:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | BAND",Band BSB HD
@@ -843,16 +705,6 @@ http://dns.fastuhd.online:80/55560028/74291704/173861
 http://dns.fastuhd.online:80/55560028/74291704/173862
 #EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/376ec34e1f11c361de6b0e6ca03976cb.png" group-title="CANAIS | VARIEDADES",TCM 10 HD
 http://dns.fastuhd.online:80/55560028/74291704/175448
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 JOGO-2" tvg-logo="http://dns.jslinkdns.xyz:80/images/780b1a8889c41c46fd9b5842da85d326.png" group-title="CANAIS | SPORTS DIVERSOS",COPA DO NORDESTE 2020 JOGO-2
-http://dns.fastuhd.online:80/55560028/74291704/175450
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD
-http://dns.fastuhd.online:80/55560028/74291704/175455
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PETROLINA" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO PETROLINA
-http://dns.fastuhd.online:80/55560028/74291704/175456
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PIAUI TV CLUBE HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO PIAUI TV CLUBE HD
-http://dns.fastuhd.online:80/55560028/74291704/175457
-#EXTINF:-1 tvg-id="" tvg-name="TV MIRANTE HD GLOBO MARANHAO" tvg-logo="http://dns.jslinkdns.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV MIRANTE HD GLOBO MARANHAO
-http://dns.fastuhd.online:80/55560028/74291704/175458
 #EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 01" tvg-logo="http://dns.jslinkdns.xyz:80/images/a1e5eb1c6e59ba6692c00066c143e0d2.png" group-title="CANAIS | CINE SKY",CINE PIPOCA 01
 http://dns.fastuhd.online:80/55560028/74291704/175459
 #EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 02" tvg-logo="http://dns.jslinkdns.xyz:80/images/a1e5eb1c6e59ba6692c00066c143e0d2.png" group-title="CANAIS | CINE SKY",CINE PIPOCA 02
@@ -895,32 +747,3 @@ http://dns.fastuhd.online:80/55560028/74291704/175477
 http://dns.fastuhd.online:80/55560028/74291704/175478
 #EXTINF:-1 tvg-id="" tvg-name="Vintage MOVIES" tvg-logo="http://dns.jslinkdns.xyz:80/images/7674d5178fcf56f41f239b5143651024.png" group-title="CANAIS | CINE SKY",Vintage MOVIES
 http://dns.fastuhd.online:80/55560028/74291704/175479
-
-
--------BBBBB
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 01
-http://dns.fastuhd.online:80/55560028/74291704/174025
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01¹" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 01¹
-http://dns.fastuhd.online:80/55560028/74291704/174026
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 02
-http://dns.fastuhd.online:80/55560028/74291704/174027
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 03
-http://dns.fastuhd.online:80/55560028/74291704/174028
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 04
-http://dns.fastuhd.online:80/55560028/74291704/174029
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 MOSAICO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB 2021 MOSAICO
-http://dns.fastuhd.online:80/55560028/74291704/174030
-#EXTINF:-1 tvg-id="" tvg-name="BBB CONFESSIONARIO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB CONFESSIONARIO
-http://dns.fastuhd.online:80/55560028/74291704/174031
-#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA VIP XEPA" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB COZINHA VIP XEPA
-http://dns.fastuhd.online:80/55560028/74291704/174032
-#EXTINF:-1 tvg-id="" tvg-name="BBB PISCINA" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB PISCINA
-http://dns.fastuhd.online:80/55560028/74291704/174033
-#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO COLORIDO" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB QUARTO COLORIDO
-http://dns.fastuhd.online:80/55560028/74291704/174034
-#EXTINF:-1 tvg-id="" tvg-name="BBB SALA DE ESTAR" tvg-logo="http://dns.jserverstv.ml:80/images/c4743e95da64f649e2f535f5d5e54527.png" group-title="BBB 2021",BBB SALA DE ESTAR
-http://dns.fastuhd.online:80/55560028/74291704/174035
-#EXTINF:-1 tvg-id="" tvg-name="BB 21 - BATE PAPO GSHOW" tvg-logo="http://dns.jslinkdns.xyz:80/images/3d12168a30659fbd10e083262acd0306.jpg" group-title="BBB 2021",BB 21 - BATE PAPO GSHOW
-http://dns.fastuhd.online:80/55560028/74291704/190979
