@@ -739,7 +739,6 @@ http://dns.blackouthd.xyz:80/Maria005/800900500/175479
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f9c77b9471501c596e67fc82ca9bea13.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
 http://dns.blackouthd.xyz:80/Maria005/800900500/175480
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND SPORTS SD" tvg-logo="http://dns.jslinkdns.xyz:80/images/f9c77b9471501c596e67fc82ca9bea13.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
